@@ -15,3 +15,9 @@ Music Recommendation Systems analyze users’ musical interactions, such as list
 4. Hybrid Approaches: Combining collaborative and content-based methods for improved recommendations.
 
 As users interact with the system, it continuously refines and updates their profiles, making the recommendations more precise over time.
+
+## Spotify API
+The Spotify API is a set of rules and protocols provided by Spotify developers. It allows developers to interact with Spotify’s music catalog and collect music-related data, such as tracks, albums, artists, playlists, user profiles, and play history. To build a Music Recommendation System using the Spotify API, developers need a Spotify developer account to obtain credentials for accessing Spotify's data.
+
+## Conclusion
+This project demonstrates the process of building a Music Recommendation System using the Spotify API and Python. By leveraging content-based and hybrid recommendation techniques, the system provides personalized music recommendations that reflect users' preferences and enhance their listening experience.
